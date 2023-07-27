@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/jfernandezfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jfernandezfullstack" height="30" width="40" /></a>
 <a href="https://instagram.com/cuentosdeldesierto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cuentosdeldesierto" height="30" width="40" /></a>
-<a href="https://www.behance.net/jesús fernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jesús fernández" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc9fgxy7m6t_2ij4sxf3kqfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc9fgxy7m6t_2ij4sxf3kqfg" height="30" width="40" /></a>
+<a href="https://www.behance.net/jfernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jesús fernández" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@southernpilgrims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@southernpilgrims" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
