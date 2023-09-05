@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **frontendjesus@gmail.com**
 
-- 📄 Know about my experiences [Graphic designer from I remember...](Graphic designer from I remember...)
+- 📄 Know about my experiences [Graphic designer since I remember...](Graphic designer since I remember...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
