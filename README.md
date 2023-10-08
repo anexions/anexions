@@ -5,7 +5,7 @@
   <em>
     🌱 Currently mastering the skills to become a junior full stack developer <br>
     📫 Reach out to me at: <a href="mailto:frontendjesus@gmail.com">frontendjesus@gmail.com</a><br>
-    📄 Check out my journey as a <a href="http://jesusfernandezweb.es/" target="_blank">web Designer</a>
+    📄 Check out my journey as a <a href="http://jesusfernandezweb.es/" target="_blank">web designer</a>
   </em>
 </p>
 
