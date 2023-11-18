@@ -5,7 +5,6 @@
   <em>
     🌱 Currently mastering the skills to become a junior full stack developer <br>
     📫 Reach out to me at: <a href="mailto:frontendjesus@gmail.com">frontendjesus@gmail.com</a><br>
-    📄 Check out my journey as a <a href="http://jesusfernandezweb.es/" target="_blank" rel="noopener noreferrer">Visitar Jesus Fernandez Web</a>
   </em>
 </p>
 
@@ -24,5 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+
 
 </p>
