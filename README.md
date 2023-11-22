@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jesús Fernández</h1>
-<h3 align="center">Full Stack Developer in Training at CodeSpace Academy</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 <p align="center">
   <em>
-    🌱 Currently mastering the skills to become a junior full stack developer <br>
     📫 Reach out to me at: <a href="mailto:frontendjesus@gmail.com">frontendjesus@gmail.com</a><br>
   </em>
 </p>
